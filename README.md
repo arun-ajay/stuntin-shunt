@@ -11,6 +11,7 @@ Information is passed to a desktop with bluetooth running the Bluetooth_Data_Col
 Bluetooth_Data_Collection.py code contains a text messaging and emailing system which notifies a physician if the shunt is blocked. A CSV file is sent to the email. 
 
 Group Members:
+
 Arun Ajay
 
 Birra Taha
