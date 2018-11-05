@@ -4,6 +4,7 @@ It was also a part of a project for Cornell's Neurosurgery Department's Jeff Gre
 
 
 I've (Arun) written the code for this repo. 
+
 The FSR_ALPS_BT.ino file contains code for the FSR and APDS sensors. 
 This code analyzes inputs and sends an alert after a threshold is hit. 
 
