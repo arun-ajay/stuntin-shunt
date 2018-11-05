@@ -1,4 +1,4 @@
-This project was made for Cornell's Health Innocation Hack-A-Thon for Spring 2017.
+This project was made for Cornell's Health Innocation Hack-A-Thon for Spring 2018.
 
 It was also a part of a project for Cornell Neurosurgery Department - Jeff Greenfield, MD, PhD
 
