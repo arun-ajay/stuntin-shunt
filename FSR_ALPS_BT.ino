@@ -1,3 +1,5 @@
+//Note APDS Library Written by Davide Depau: https://github.com/Depau/APDS9930
+
 #include <Wire.h>
 #include <APDS9930.h>
 #include <SoftwareSerial.h>
