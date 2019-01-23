@@ -3,7 +3,7 @@ This project was made for Cornell's Health Innocation Hack-A-Thon for Spring 201
 It was also a part of a project for Cornell's Neurosurgery Department's Jeff Greenfield, MD, PhD
 
 
-I've (Arun) written the code for this repo. 
+I've (Arun Ajay) written the code for this repo. 
 
 The FSR_ALPS_BT.ino file contains code for the FSR and APDS sensors. 
 This code analyzes inputs and sends an alert after a threshold is hit. 
